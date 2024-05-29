@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+    color: white;
+    font-size: 100px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    overflow: hidden;
+}
+
+.dclock {
+    color: orange;
+}
